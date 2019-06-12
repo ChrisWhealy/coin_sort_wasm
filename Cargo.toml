@@ -1,0 +1,14 @@
+[package]
+name = "coin_sort"
+version = "0.1.0"
+authors = ["Chris Whealy <chris.whealy@sap.com>"]
+description = "Training project with Rust and wasm-pack"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/ChrisWhealy/coin-sort-wasm"
+
+[dependencies]
+rand = "0.4.0"
+wasm-bindgen = "0.2"
+
+[lib]
+crate-type = ["cdylib"]
