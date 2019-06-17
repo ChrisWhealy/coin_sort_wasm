@@ -1,7 +1,7 @@
 [package]
 name = "coin_sort"
 version = "0.1.0"
-authors = ["Chris Whealy <chris.whealy@sap.com>"]
+authors = ["Chris Whealy <chris@whealy.com>"]
 description = "Training project with Rust and wasm-pack"
 license = "MIT/Apache-2.0"
 repository = "https://github.com/ChrisWhealy/coin-sort-wasm"
